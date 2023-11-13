@@ -1,6 +1,6 @@
 
 <?php
-$cep= "52280081";
+$cep= "01001000";
 
 $url = "https://viacep.com.br/ws/$cep/json/";
 
